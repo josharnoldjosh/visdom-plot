@@ -3,7 +3,7 @@
 Here's a script that I wrote that provides a simple framework for plotting your data.
 It provides built in support for line plots and confusion matrices.
 
-![](https://i.ibb.co/9tjTyb3/example.gif)
+![](https://media.giphy.com/media/4NiFnKc1Kr1KqPq984/giphy.gif)
 
 ## Install
 
